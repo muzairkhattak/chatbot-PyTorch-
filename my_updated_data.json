@@ -1,0 +1,117 @@
+{
+  "intents": [
+ {
+      "tag": "Hassan basic info",
+      "patterns": [
+        "Hi, do you know hassan? ",
+        "Is hassan your friend?",
+        "When did you first meet hassan??",
+	"Can you tell me something about Hassan?",
+	"Plz tell me about Hassan !! "
+	
+      ],
+      "responses": [
+        "Yessss , he is a superstar with a nick name : bara MUN",
+        "Yes he's my frand",
+        "Hassan is beauty of nust",
+        "Hassan lives in lahore but studies in NUST !!"
+      ]
+    },
+ {
+      "tag": "Hassan Secrets",
+      "patterns": [
+        "Can you tell me something about Hassan???",
+        "Please share a secret of Hassan??",
+        "What Hassan do normally in hostel??",
+	"Has Ahmed Usman done something so Hassan??",
+	"Please tell me a secret of Hassan?",
+	"Is hassan a bad boy?"
+      ],
+      "responses": [
+        "There are alot of secrets of hassan, can you ask something specifically?",
+        "He is a very good COD player",
+        "Ahmed and Hassan lived together in NUST hostels !! ,
+        "Hassan's brother beats him everyday ",
+	"Yes Hassan is a very very bad boy !!",
+	"Hassan and Nono are BFF"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting this madni channel !!",
+	"Hello, this is madni_boy, the professional killer in cod4",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+	"Hi, Im here to tell Secrets of Madniboys !! ",
+	"Hello, Want to know some dark secrets about Tihaam?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye","Khuda Hafiz","See you tonight ! "],
+      "responses": [
+        "See you later, thanks for chatting with me !! ",
+        "Have a nice day",
+	"Goodbye NOOB, plz come today at 10PM for heavy game !!! in the cod server !! ",
+        "Bye! Come back again soon.",
+	"Take care noob ! "
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "Uzair",
+      "patterns": [
+        "Is Uzair your friend?",
+        "Can I ask something related to Mr Uzair?",
+	"Do you know Uzair ?",
+	"Uzair?"
+      ],
+      "responses": [
+        "Yes, Uzair Has created this chatbot :P",
+        "Yes sure, you can ask anything about uzair!",
+	"Uzair is my friend!! "
+      ]
+    },
+    {
+      "tag": "uzair_details",
+      "patterns": [
+        "Where does Uzair Study?",
+        "What do Uzair do ,now a days?",
+        "Where is Uzair?",
+        "tell me someting about Uzair??"
+      ],
+      "responses": [
+        "Uzair is a Electrical Engineering Undergrad Student",
+        "Uzair Studies in National University of Sciences and Technology!!!",
+	"Uzair is busy making cool AI projects !! "
+      ]
+    },
+   
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
